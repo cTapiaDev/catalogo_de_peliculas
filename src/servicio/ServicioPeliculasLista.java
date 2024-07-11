@@ -36,6 +36,8 @@ public class ServicioPeliculasLista implements IServicioPeliculas {
         }
     }
     
+    
+    // Este main solo fue creado para realizar pruebas, no es el main principal
     public static void main(String[] args) {
         
         // Agregar peliculas
